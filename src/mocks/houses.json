@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "owner": "John Doe",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "New York",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "owner": "Alice Smith",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "California",
+    "price": 15000
+  },
+  {
+    "id": 3,
+    "owner": "Bob Johnson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Ohio",
+    "price": 12000
+  },
+  {
+    "id": 4,
+    "owner": "Eva White",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Florida",
+    "price": 11000
+  },
+  {
+    "id": 5,
+    "owner": "Michael Davis",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "California",
+    "price": 13000
+  },
+  {
+    "id": 6,
+    "owner": "Samantha Brown",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Ohio",
+    "price": 12500
+  },
+  {
+    "id": 7,
+    "owner": "David Wilson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Ohio",
+    "price": 10500
+  },
+  {
+    "id": 8,
+    "owner": "Grace Taylor",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "California",
+    "price": 14000
+  },
+  {
+    "id": 9,
+    "owner": "Charlie Brown",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "California",
+    "price": 11500
+  },
+  {
+    "id": 10,
+    "owner": "Olivia Wilson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Arizona",
+    "price": 10200
+  },
+  {
+    "id": 11,
+    "owner": "Daniel Miller",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Virginia",
+    "price": 11800
+  },
+  {
+    "id": 12,
+    "owner": "Sophia Robinson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Arizona",
+    "price": 12800
+  },
+  {
+    "id": 13,
+    "owner": "Mason White",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Arizona",
+    "price": 10700
+  },
+  {
+    "id": 14,
+    "owner": "Emma Johnson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Arizona",
+    "price": 11200
+  },
+  {
+    "id": 15,
+    "owner": "Logan Davis",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Tennessee",
+    "price": 12200
+  },
+  {
+    "id": 16,
+    "owner": "Ava Wilson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Oregon",
+    "price": 13500
+  },
+  {
+    "id": 17,
+    "owner": "Noah Johnson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Oregon",
+    "price": 10800
+  },
+  {
+    "id": 18,
+    "owner": "Isabella Taylor",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Oregon",
+    "price": 13200
+  },
+  {
+    "id": 19,
+    "owner": "James Brown",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Oregon",
+    "price": 11700
+  },
+  {
+    "id": 20,
+    "owner": "Lily Wilson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOkl-5Xkx1as7X407APkAQId2WglBnw_-Lmm-pjk2WmSnirn2Z4_gv_FD4PjNII0CpzQ&usqp=CAU",
+    "location": "Oregon",
+    "price": 12900
+  }
+]
